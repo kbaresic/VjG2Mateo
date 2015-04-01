@@ -19,7 +19,7 @@ namespace New_Project_empty
         int Rezultat(int x, int y)
         {
             int c;
-            c = x + y;
+            c = x;
             return c;
         }
         private void textBox1_TextChanged(object sender, EventArgs e)
